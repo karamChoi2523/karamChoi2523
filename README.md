@@ -32,6 +32,7 @@
   <img src="https://img.shields.io/badge/Thymeleaf-005F0F?style=flat-square&logo=Thymeleaf&logoColor=white"/>
   <img src="https://img.shields.io/badge/JSP-007396?style=flat-square&logo=Java&logoColor=white"/>
   <br/>
+  <br/>
   
   ## 🤔 Github Stats
   [![karamChoi's GitHub stats](https://github-readme-stats.vercel.app/api?username=karamChoi2523)](https://github.com/anuraghazra/github-readme-stats)
