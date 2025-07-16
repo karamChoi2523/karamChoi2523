@@ -37,7 +37,7 @@
   ## 🤔 Github Stats
   [![karamChoi's GitHub stats](https://github-readme-stats.vercel.app/api/?username=karamChoi2523)](https://github.com/anuraghazra/github-readme-stats)
   <br/>
-  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=karamChoi2523&layout=compact&theme=algolia)](https://github.com/anuraghazra/github-readme-stats)
+  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=karamChoi2523&layout=compact&theme=default)](https://github.com/anuraghazra/github-readme-stats)
   
 </div>
 
