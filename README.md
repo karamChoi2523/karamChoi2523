@@ -24,7 +24,6 @@
   ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=MongoDB&logoColor=white)
   ### ☁️ Server / Deployment  
   ![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=Amazon%20AWS&logoColor=white)
-  
   ### 🎨 Front-End & ETC  
   ![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=React&logoColor=white)
   ![Thymeleaf](https://img.shields.io/badge/Thymeleaf-005F0F?style=flat-square&logo=Thymeleaf&logoColor=white)
