@@ -35,7 +35,6 @@
   ## 📫 Contact & Channel
   - 📧 Email: `riverchoi2523@gmail.com`  
   - 📱 Phone: `010-2523-3459`  
-  - 🖥️ GitHub: [karamChoi2523](https://github.com/karamChoi2523)  
   - 📚 Blog: [river님의 블로그 (naver.com)](https://blog.naver.com/riverchoi2523)
   
 </div>
