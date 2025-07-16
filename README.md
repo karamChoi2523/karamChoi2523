@@ -39,10 +39,11 @@
   <br/>
 
   ## 📫 Contact & Channel
-  <a href="https://blog.naver.com/riverchoi2523">
+  <a href="https://blog.naver.com/riverchoi2523" style="display:inline-block;">
     <img src="https://img.shields.io/badge/Naver%20Tech%20Blog-03C75A?style=flat-square&logo=Naver&logoColor=white"/>
+  </a><a href="mailto:riverchoi2523@gmail.com" style="display:inline-block;">
+    <img src="https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white"/>
   </a>
-  <a href="mailto:riverchoi2523@gmail.com"><img src="https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=kimhyein7110@gmail.com"/></a>
 </div>
 
 <!--
