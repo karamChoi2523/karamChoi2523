@@ -39,8 +39,8 @@
   <br/>
 
   ## 📫 Contact & Channel
-  [![Email](https://img.shields.io/badge/Email-riverchoi2523@gmail.com-D14836?style=flat-square&logo=Gmail&logoColor=white)](mailto:riverchoi2523@gmail.com)
-  [![Blog](https://img.shields.io/badge/Blog-Naver-03C75A?style=flat-square&logo=Naver&logoColor=white)](https://blog.naver.com/riverchoi2523)
+  <a href="https://blog.naver.com/riverchoi2523"><img src="https://img.shields.io/badge/Tech%20Blog-11B48A?style=flat-square&logo=Vimeo&logoColor=white&link=https://velog.io/@hyeinisfree"/></a>&nbsp
+  <a href="mailto:riverchoi2523@gmail.com"><img src="https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=kimhyein7110@gmail.com"/></a>
 </div>
 
 <!--
