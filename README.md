@@ -35,12 +35,6 @@
   [![karamChoi's GitHub stats](https://github-readme-stats.vercel.app/api/?username=karamChoi2523)](https://github.com/anuraghazra/github-readme-stats)
   <br/>
   [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=karamChoi2523&layout=compact&theme=default)](https://github.com/anuraghazra/github-readme-stats)
-
-  ## 📫 Contact & Channel
-  - 📧 Email: `riverchoi2523@gmail.com`  
-  - 📱 Phone: `010-2523-3459`  
-  - 📚 Blog: [river님의 블로그 (naver.com)](https://blog.naver.com/riverchoi2523)
-  
 </div>
 
 <!--
