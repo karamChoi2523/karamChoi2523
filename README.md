@@ -35,6 +35,12 @@
   [![karamChoi's GitHub stats](https://github-readme-stats.vercel.app/api/?username=karamChoi2523)](https://github.com/anuraghazra/github-readme-stats)
   <br/>
   [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=karamChoi2523&layout=compact&theme=default)](https://github.com/anuraghazra/github-readme-stats)
+  <br/>
+  <br/>
+
+  ## 📫 Contact & Channel
+  [![Email](https://img.shields.io/badge/Email-riverchoi2523@gmail.com-D14836?style=flat-square&logo=Gmail&logoColor=white)](mailto:riverchoi2523@gmail.com)
+  [![Blog](https://img.shields.io/badge/Blog-Naver-03C75A?style=flat-square&logo=Naver&logoColor=white)](https://blog.naver.com/riverchoi2523)
 </div>
 
 <!--
