@@ -9,9 +9,8 @@
   <!--Body-->
   
   ## 👀 About Me
-  #### :raising_hand: I am a Cloud Engineer from South Korea.<br/>
-  #### :fire: I aim to become a Cloud AI Engineer.<br/>
-  #### :mortar_board: Bachelor of Applied Artificial Intelligence, Sungkyunkwan University(SKKU)
+  #### :raising_hand: 7회의 팀 프로젝트에서 웹 서비스를 기획, 개발, 배포하며 주로 Spring Boot를 사용한 백엔드 개발을 담당했습니다.<br/>
+  #### :fire: 특히 주도적인 협업으로 역할을 재조정해 일정을 50% 이상 단축하거나 Redis Pub/Sub 도입으로 응답 수신 시간을 48% 줄이는 성과를 거둔 경험이 있습니다.<br/>
   <br/>
   <br/>
   
